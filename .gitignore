@@ -1,0 +1,25 @@
+data/*
+!data/.gitkeep
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Personal learning notes (not part of the portfolio repository)
+learning_notes/
